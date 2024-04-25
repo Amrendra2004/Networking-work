@@ -16,5 +16,19 @@ Q3. To create Star topology using Hub and Switch.
 
 ![image](https://github.com/Amrendra2004/Networking-work/assets/118886890/263bcea8-3a36-435d-8ea7-72cf22f08617)
 #
+Q4. To create Bus, Ring, Tree, Hybrid, Mash topologies.
+
+(i) Bus Topology
+
+![image](https://github.com/Amrendra2004/Networking-work/assets/118886890/9f69e3bf-59bd-481c-b550-b5ccd72e3502)
+
+(ii) Tree Topology
+
+![image](https://github.com/Amrendra2004/Networking-work/assets/118886890/0340c020-1a7e-4138-99d2-7ffbc17bc465)
+
+(iii) Hybrid Topology
+
+
+
 
 
