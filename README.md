@@ -60,7 +60,8 @@ To configure the Line Control password and Enable secret follow the below comman
 
 ![image](https://github.com/Amrendra2004/Networking-work/assets/118886890/6ec4d702-57bd-45eb-9243-935ff5bb8a96)
 
-![image](https://github.com/Amrendra2004/Networking-work/assets/118886890/e74845af-2cbc-4670-ad12-727a23d4fb83)
+![image](https://github.com/Amrendra2004/Networking-work/assets/118886890/dc3de62d-d4c7-4b31-b1a8-af680f995622)
+
 
 
 
