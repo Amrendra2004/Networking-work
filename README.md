@@ -45,6 +45,25 @@ Name
 password
 
 ![image](https://github.com/Amrendra2004/Networking-work/assets/118886890/7d123ecd-82c3-4550-826d-5061eb0219a8)
+#
+Q6. Perform an initial Router configuration.
+
+Host Setting
+
+![image](https://github.com/Amrendra2004/Networking-work/assets/118886890/39f14e4c-0258-4fbb-848c-4b6c4ebaf8b9)
+
+Set a message of the day (MOTD) banner for the users.
+
+![image](https://github.com/Amrendra2004/Networking-work/assets/118886890/f59059d8-1671-47b2-98bf-307f6ee09968)
+
+To configure the Line Control password and Enable secret follow the below commands:
+
+![image](https://github.com/Amrendra2004/Networking-work/assets/118886890/6ec4d702-57bd-45eb-9243-935ff5bb8a96)
+
+![image](https://github.com/Amrendra2004/Networking-work/assets/118886890/e74845af-2cbc-4670-ad12-727a23d4fb83)
+
+
+
 
 
 
