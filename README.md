@@ -36,6 +36,9 @@ Q4. To create Bus, Ring, Tree, Hybrid, Mash topologies.
 #
 Q5. Perform an initial Switch configuration.
 
+![image](https://github.com/Amrendra2004/Networking-work/assets/118886890/4623e08c-7a8b-48ca-b249-25949ddf4fab)
+ ![image](https://github.com/Amrendra2004/Networking-work/assets/118886890/1c2c1786-2638-4bb4-91a6-17d9f35c99a2)
+
 
 
 
