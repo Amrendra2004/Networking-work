@@ -61,6 +61,33 @@ To configure the Line Control password and Enable secret follow the below comman
 ![image](https://github.com/Amrendra2004/Networking-work/assets/118886890/6ec4d702-57bd-45eb-9243-935ff5bb8a96)
 
 ![image](https://github.com/Amrendra2004/Networking-work/assets/118886890/dc3de62d-d4c7-4b31-b1a8-af680f995622)
+#
+Q7. To implement ClientServer Network.
+
+![image](https://github.com/Amrendra2004/Networking-work/assets/118886890/7fed583e-d9e6-4d54-b5e8-78119e046bf0)
+
+Step 1. In any pc go to web server.
+
+![image](https://github.com/Amrendra2004/Networking-work/assets/118886890/f799c3df-b8f6-460d-b7fa-4d732848fe51)
+
+Step 2. Enter IP address of server conneted to your switch in web server URL. Then press GO.
+
+![image](https://github.com/Amrendra2004/Networking-work/assets/118886890/8a492813-9743-4ee6-ae03-512b6ab0506b)
+#
+Q8. To implement connection between devices using router.
+
+![image](https://github.com/Amrendra2004/Networking-work/assets/118886890/9f6d0fca-77c3-4996-8521-60562d790f31)
+
+Router Config
+
+![image](https://github.com/Amrendra2004/Networking-work/assets/118886890/3c032162-3ba0-4b62-aac8-befcc829d556)
+#
+Q9. To perform remort desktop sharing within LAN connection.
+
+
+
+
+
 
 
 
