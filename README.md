@@ -39,9 +39,11 @@ Q5. Perform an initial Switch configuration.
 ![image](https://github.com/Amrendra2004/Networking-work/assets/118886890/4623e08c-7a8b-48ca-b249-25949ddf4fab)
 
 Name
- ![image](https://github.com/Amrendra2004/Networking-work/assets/118886890/1c2c1786-2638-4bb4-91a6-17d9f35c99a2)
+
+![image](https://github.com/Amrendra2004/Networking-work/assets/118886890/1c2c1786-2638-4bb4-91a6-17d9f35c99a2)
 
 password
+
 ![image](https://github.com/Amrendra2004/Networking-work/assets/118886890/7d123ecd-82c3-4550-826d-5061eb0219a8)
 
 
